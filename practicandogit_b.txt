@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esta es una nueva linea local
+=======
+esta es una nueva linea hohola hola
+>>>>>>> 9b5f516f7ab5d1484c8a8a5e5c00ed93478143a4
